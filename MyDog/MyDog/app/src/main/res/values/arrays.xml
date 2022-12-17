@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_arrays">
+        <item>Вакцинация</item>
+        <item>Рацион питания</item>
+        <item>Время выгула</item>
+        <item>Время кормления</item>
+    </string-array>
+    <string-array name="shepherd_arrays">
+        <item>Вакцинация</item>
+        <item>Рацион питания</item>
+        <item>Время выгула</item>
+        <item>Время кормления</item>
+    </string-array>
+    <string-array name="watchdogs_arrays">
+        <item>Вакцинация</item>
+        <item>Рацион питания</item>
+        <item>Время выгула</item>
+        <item>Время кормления</item>
+    </string-array>
+    <string-array name="hunting_arrays">
+        <item>Вакцинация</item>
+        <item>Рацион питания</item>
+        <item>Время выгула</item>
+        <item>Время кормления</item>
+    </string-array>
+    <string-array name="sled_arrays">
+        <item>Вакцинация</item>
+        <item>Рацион питания</item>
+        <item>Время выгула</item>
+        <item>Время кормления</item>
+    </string-array>
+    <string-array name="text_size_array">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Маленький</item>
+    </string-array>
+</resources>
